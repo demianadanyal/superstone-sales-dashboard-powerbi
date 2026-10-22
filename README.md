@@ -34,19 +34,19 @@ Interactive Power BI dashboard analyzing Superstore sales, profit, returns, and 
 Power BI, Power Query, DAX
 
 ## Dashboard Preview
-
-
-![Dashboard Page 1](images/5.png)
+![Dashboard Page 1](Superstone-sales-dashoard-powerBi/images/5.png)
 
 
 
 
-![Dashboard Page 2](images/5.1.png)
+![Dashboard Page 2](Superstone-sales-dashoard-powerBi/images/5.1.png)
+
 
 
 
 ## Presentation
-[View the full presentation (PDF)](dashboard/superstore_presentation.pdf)
+[View the full presentation (pptx)](Superstone-sales-dashoard-powerBi/dashboard/superstore_presentation.pptx)
+
 
 ## Key Findings & Recommendations
 
